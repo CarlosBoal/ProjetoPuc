@@ -15,21 +15,21 @@ code {
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center; 
-  justify-content: center; 
+  align-items: center;
+  justify-content: center;
   width: 100%;
-  height: 100vh; 
+  height: 100vh;
 }
 
 .form-group {
   display: flex;
   flex-direction: column;
   width: 30%;
-  gap: 0.5rem; 
-  padding: 1rem; 
-  border: 1px solid #ccc; 
-  border-radius: 5px; 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  gap: 0.5rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 input {
@@ -54,26 +54,25 @@ button:hover {
   background-color: #0056b3;
 }
 
-.card-header{
+.card-header {
   display: flex;
   flex-direction: column;
   width: 30%;
-  gap: 0.5rem; 
-  padding: 1rem; 
-  border: 1px solid #ccc; 
-  border-radius: 5px; 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  gap: 0.5rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: #007bff;
 }
 
-.card-body{
+.card-body {
   display: flex;
   flex-direction: column;
   width: 30%;
-  gap: 0.5rem; 
-  padding: 1rem; 
-  border: 1px solid #ccc; 
-  border-radius: 5px; 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  gap: 0.5rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
