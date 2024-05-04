@@ -3,15 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC9P6g3Oe2xDXYG6mPFmxFtoWmaEWIdW3Y",
-    authDomain: "segpucpr.firebaseapp.com",
-    databaseURL: "https://segpucpr-default-rtdb.firebaseio.com",
-    projectId: "segpucpr",
-    storageBucket: "segpucpr.appspot.com",
-    messagingSenderId: "500386427112",
-    appId: "1:500386427112:web:ee2088c051a9be44c2195d",
-    measurementId: "G-62Z5SN7DW3"
-  };
+  apiKey: "AIzaSyCZkxPCAdVkJRX-iBwBvDGV6h-OH7qENb0",
+  authDomain: "projetoreact-ccf1b.firebaseapp.com",
+  projectId: "projetoreact-ccf1b",
+  storageBucket: "projetoreact-ccf1b.appspot.com",
+  messagingSenderId: "267886011134",
+  appId: "1:267886011134:web:baa4c173560dc34d82bbaf"
+};
 
 if(!firebase.apps.length){
     firebase.initializeApp(firebaseConfig);
